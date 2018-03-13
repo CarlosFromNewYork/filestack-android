@@ -1,5 +1,7 @@
 # filestack-android
 
+**This branch is to help with a specific user issue. DO NOT USE OTHERWISE!**
+
 UI and upload API for Filestack. Easily upload files from a user's
 local device or cloud services. Provides both a picker activity for easy
 integration as well as a client class for manual control and customization.
